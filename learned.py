@@ -1,0 +1,1 @@
+#    \u00b2    --> for superscript
